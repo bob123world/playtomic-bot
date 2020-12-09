@@ -1,0 +1,16 @@
+{
+    "email": "",
+    "password": "",
+    "days": [0,3],
+    "sunday": 0,
+    "monday": 1,
+    "tuesday": 2,
+    "wednesday": 3,
+    "thursday": 4,
+    "friday": 5,
+    "saturday": 6,
+    "polling_interval": 5,
+    "preference": ["18:30:00","19:00:00","18:00:00"],
+    "padel_club": "https://playtomic.io/tennisclub-de-vallei/10b97870-7941-4b42-9533-73e27e0e4ab7",
+    "duration": 90
+}
